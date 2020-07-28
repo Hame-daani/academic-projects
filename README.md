@@ -17,3 +17,6 @@ Academic projects I write while studying computer engineering (2017-2021)
 
 ## Fall 2019
 - [Artificial Intelligence](https://github.com/safuxingdi/AI-projects)
+ ## Spring 2020
+ - [Embedded and Real-Time Systems](https://github.com/safuxingdi/ERTS-project)
+ 
